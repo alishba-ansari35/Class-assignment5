@@ -3,8 +3,8 @@ import React from 'react'
 const Header = () => {
   return (
     <div >
-      <header className='h-[134px] w-[100%] bg-[#A29875] sm:w-[100%] md:w-[100%] lg:w-[100%] xl:w-[100%]'>
-     <div className='h-[94px] w-[100%] sm:w-[100%] md:w-[100%] lg:w-[100%] xl:w-[100%] pt-[20px] pl-[36px] 
+      <header className='h-[134px] w-full bg-[#A29875] '>
+     <div className='h-[94px] w-full  pt-[20px] md:pl-[40px] 
      font-[400px] text-[40px] text-[#FFFFFF] leading-[93.75px] font-[Rye]'>MANZZARI</div>
       </header>
     </div>
