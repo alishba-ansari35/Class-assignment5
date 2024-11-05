@@ -12,12 +12,12 @@ const Hero = () => {
       </div>
       <div className='w-[100%] sm:w-[100%] md:w-[100%] lg:w-[100%] xl:w-[100%] h-[200px] pt-[22px]'>
       <p className='text-[22px]  md:text-[17px] sm:text-[10px] lg:text-ellipsis  xl:text-[22px] pl-[171px] w-[100%] h-[147px] font-[Libre Bodoni]
-       font-[500]  font-[Rye] leading-[44.35px] tracking-[2.5%] text-[#787054]'>
+       font-[500]  font-[Rye] leading-[43.35px] tracking-[2.5%] text-[#787054]'>
       An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of ourdesirable collection.
        </p>
       </div>
-       <div className='w-[288px]  sm:w-[288px] md:w-[288px] lg:w-[288px] xl:w-[288px] h-[58px] ml-[176px] mt-[10px] 
-      font-[Rye] font-[500px] text-[22px]  text-[white] leading-[37.3px] rounded-[10px] gap-[10px] p-[10px] bg-[#A29875] ' >
+       <div className='w-[288px]  sm:w-[288px] md:w-[288px] lg:w-[288px] xl:w-[288px] h-[58px] ml-[176px] mt-[40px] 
+      font-[Rye] font-[500px] text-[22px]  text-[white] leading-[37.35px] rounded-[10px] gap-[10px] p-[10px] bg-[#A29875] ' >
       <div className='w-[100%]  h-[38px] justify-between items-center pl-[60px]' >Explore Now</div>
 
         </div>
